@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akshx09
-- 👀 I’m interested in web dev and cp
-- 🌱 I’m currently learning oops in java
-- 💞️ I’m looking to collaborate on oops projects
+- 👀 I’m interested in app development
+- 🌱 I’m currently learning flutter
+- 💞️ I’m looking to collaborate on flutter projects
 - 📫 How to reach me akshitasinha09@gmail.com
 
 <!---
